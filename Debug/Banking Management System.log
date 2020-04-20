@@ -1,0 +1,60 @@
+﻿Build started 05/08/2017 12:47:16 AM.
+     1>Project "E:\Education\oop project\moazam\Projects\Banking Management System\Banking Management System\Banking Management System.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Banking System.cpp"
+         Banking System.cpp
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(96): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(99): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(208): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(286): warning C4308: negative integral constant converted to unsigned type
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(286): warning C4307: '*' : integral constant overflow
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(315): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(325): warning C4308: negative integral constant converted to unsigned type
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(325): warning C4307: '*' : integral constant overflow
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(363): warning C4308: negative integral constant converted to unsigned type
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(363): warning C4307: '*' : integral constant overflow
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(401): warning C4308: negative integral constant converted to unsigned type
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(401): warning C4307: '*' : integral constant overflow
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(439): warning C4308: negative integral constant converted to unsigned type
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(439): warning C4307: '*' : integral constant overflow
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(477): warning C4308: negative integral constant converted to unsigned type
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(477): warning C4307: '*' : integral constant overflow
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(547): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(666): warning C4309: 'initializing' : truncation of constant value
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(685): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(704): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(706): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(711): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(734): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(735): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(740): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(745): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(754): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(769): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(775): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(802): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(807): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\education\oop project\moazam\projects\banking management system\banking management system\banking system.cpp(817): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Education\oop project\moazam\Projects\Banking Management System\Debug\Banking Management System.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Education\oop project\moazam\Projects\Banking Management System\Debug\Banking Management System.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Education\oop project\moazam\Projects\Banking Management System\Debug\Banking Management System.lib" /MACHINE:X86 "Debug\Banking System.obj"
+         Banking Management System.vcxproj -> E:\Education\oop project\moazam\Projects\Banking Management System\Debug\Banking Management System.exe
+     1>Done Building Project "E:\Education\oop project\moazam\Projects\Banking Management System\Banking Management System\Banking Management System.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.76
